@@ -59,6 +59,7 @@ flutter:
   uses-material-design: true
 
 assets:
+  - lib/assets/quiz.jpg
   - lib/assets/animais.png
   - lib/assets/bandas.jpg
   - lib/assets/capela.jpg

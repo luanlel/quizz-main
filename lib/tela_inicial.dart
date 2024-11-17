@@ -15,7 +15,7 @@ class TelaInicial extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'assets/quiz.jpg', 
+              'lib/assets/quiz.jpg', 
               width: 300,
               height: 300,
               fit: BoxFit.cover,
